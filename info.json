@@ -21,7 +21,7 @@
        "link": " ﻿"  }
 ],
 "Deleted":false,
-"primaryColor":"",
+"primaryColor":"#56f5ff",
 "twitterHandle":"LunCoSim",
 "coingeckoId":"",
 "snapshotId":"",
@@ -32,6 +32,6 @@
 "tokenDescription":"",
 "tokenTradeLink":"",
 
-"tags":"Data Storage, Ecosystems"
+"tags":["Data Storage", "Ecosystems"]
   
 }
