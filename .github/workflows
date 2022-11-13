@@ -25,5 +25,5 @@ jobs:
 
       - uses: dkershner6/post-api-call-action@v1
         with:
-          url: ${{ secrets.API_UPDATE_URL }}/AxonDAO
+          url: ${{ secrets.API_UPDATE_URL }}/LunCo
           headers: "{\"Authorization\": \"${{ secrets.API_KEY }}\"}"
